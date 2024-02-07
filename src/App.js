@@ -8,7 +8,7 @@ function App() {
         <h1>Я не очень люблю реакт!</h1>
         {/* <img src={logo} className="App-logo" alt="logo" /> */}
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Потому что...
         </p>
         <a
           className="App-link"
