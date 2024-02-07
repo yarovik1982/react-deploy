@@ -8,8 +8,9 @@ function App() {
         <h1>Я не очень люблю реакт!</h1>
         {/* <img src={logo} className="App-logo" alt="logo" /> */}
         <p>
-          Потому что...
+          Вы спросите, почему?
         </p>
+        <p>Потому что...</p>
         <a
           className="App-link"
           href="https://reactjs.org"
